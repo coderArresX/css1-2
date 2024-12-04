@@ -142,7 +142,7 @@ h1 {
 }
 
 #beautifull {
-    margin-top: 24px;
+    margin: 24px 0;
     width: 200px;
     height: 200px;
 }
@@ -150,6 +150,7 @@ h1 {
 #pinkDiv {
     border: 6px solid #C11574;
     background: #FFDEF0;
+    margin-bottom: 24px;
 }
 
 #seccondHthree {
@@ -159,11 +160,80 @@ h1 {
     font-style: normal;
     font-weight: 800;
     line-height: 24px;
+    margin-bottom: 16px;
 }
 
 #black {
     color: black;
     background: #000000;
     border-radius: 90px;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    margin-right: 12px;
+    vertical-align: bottom;
 }
-    
+
+#black2 {
+    color: black;
+    background: #000000;
+    border-radius: 90px;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    margin-right: 12px;
+    vertical-align: bottom;
+}
+
+#black3 {
+    color: black;
+    background: #000000;
+    border-radius: 90px;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    margin-right: 12px;
+    vertical-align: bottom;
+}
+
+#divDiv {
+    max-width: 690px;
+    max-height: 128px;
+    margin: 16px;
+}
+
+#fireFiles {
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#deep-sea {
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#fungi {
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    display: inline-block;
+    vertical-align: top;
+}
